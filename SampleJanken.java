@@ -137,9 +137,3 @@ public class SampleJanken{
         }
     }
 }
-
-/* public class Test{
-    public static void main(stirng[] args){
-        System.out.println("hello");
-    }
-} */
